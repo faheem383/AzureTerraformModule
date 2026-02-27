@@ -1,0 +1,1 @@
+In this lab, deploy a Linux VM on Azure via a Terraform module, using SSH key-based authentication. Generate an SSH key locally within Terraform, reference that key in VM configuration, and output the private key to a file on machine.
